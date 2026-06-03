@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Abdelhafid Chetouani</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelhafid01&label=Profile%20views&color=brightgreen&style=flat" alt="Abdelhafid01" /> </p> 
+<p align="left">
+  <a href="https://wakatime.com/@be2ab881-7538-40a1-83b4-a8441a5a31ad"><img src="https://wakatime.com/badge/user/be2ab881-7538-40a1-83b4-a8441a5a31ad.svg" alt="Total time coded since Aug 29 2022" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abdelhafid01&label=Profile%20views&color=brightgreen&style=flat" alt="Abdelhafid01" />
+</p> 
 
 🌱 I’m currently learning and working with java/angular languages. I'm a passionate problem solver, I love diving deep into new systems and frameworks with an eye for how they can be used to improve systems and increase development velocity. 🌱
 
@@ -23,11 +26,3 @@
   <a href="#"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title="Node.js" alt="Node.js" height="40"/></a>
   <a href="#"><img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" title="Oracle" alt="Oracle" height="40"/></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelhafid01&show_icons=true&locale=en&layout=compact" alt="Abdelhafid01" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelhafid01&show_icons=true&locale=en" alt="Abdelhafid01" /></p>
-<br/>
-<a href="https://app.daily.dev/AbdelhafidCh"><img src="https://api.daily.dev/devcards/29280d27558d4f1a93d3f3409f6c36f5.png?r=auo" width="400" alt="ch abdelhafid's Dev Card"/></a>
-<br/>
-<br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhafid01&" alt="Abdelhafid01" /></p>
