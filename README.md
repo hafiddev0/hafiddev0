@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Abdelhafid Chetouani</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h1 align="center">Hello 👋, I'm Hafid Chetouani</h1>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left">
   <a href="https://wakatime.com/@be2ab881-7538-40a1-83b4-a8441a5a31ad"><img src="https://wakatime.com/badge/user/be2ab881-7538-40a1-83b4-a8441a5a31ad.svg" alt="Total time coded since Aug 29 2022" /></a>
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chetouani-abdelhafid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdelhafid01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hafid-chetouani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdelhafid01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
