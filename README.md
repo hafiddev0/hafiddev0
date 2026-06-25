@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning and working with java/angular languages. I'm a passionate problem solver, I love diving deep into new systems and frameworks with an eye for how they can be used to improve systems and increase development velocity. 🌱
 
-📫 How to reach me **contact@abdelhafidchetouani.com** / **abdelhafid.ch@protonmail.com**
+📫 How to reach me **abdelhafid.chetouani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
