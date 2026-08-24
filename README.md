@@ -1,5 +1,5 @@
 <p dir="auto">
-  <a href="https://abdelhafidchetouani.com" rel=""><img src="/braydoncoyer/braydoncoyer/raw/main/assets/GitHubHeader.png" alt="Hafid's GitHub Banner" style="max-width: 100%;"></a>
+  <a href="https://abdelhafidchetouani.com" rel=""><img src="hafiddev0/hafiddev0/main/Hafid Chetouani.png" alt="Hafid's GitHub Banner" style="max-width: 100%;"></a>
 </p>
 <h1 align="center">Hey 👋, I'm Hafid </h1>
 <p align="center">
