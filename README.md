@@ -1,26 +1,49 @@
+<p dir="auto">
+  <a href="https://abdelhafidchetouani.com" rel=""><img src="/braydoncoyer/braydoncoyer/raw/main/assets/GitHubHeader.png" alt="Hafid's GitHub Banner" style="max-width: 100%;"></a>
+</p>
 <h1 align="center">Hey 👋, I'm Hafid </h1>
-<p align="left">
-  <p dir="auto">
+<p align="center">
+  <p align="center">
     <a href="https://x.com/hafiddev" rel="nofollow">
-      <img alt="Static Badge" src="https://img.shields.io/badge/--black?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2Fhafiddev">
+      <img alt="X" src="https://img.shields.io/badge/--black?style=plastic&logo=x">
     </a> 
+  </p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/hafid-chetouani/" rel="nofollow">
-      <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhafid-chetouani%2F">
-    </a>
-    <a href="https://www.upwork.com/freelancers/~01735a871877f454db" rel="nofollow">
-      <img alt="Static Badge" src="https://img.shields.io/badge/--black?style=for-the-badge&logo=upwork&logoColor=white&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01735a871877f454db">
-    </a>
-    <a href="mailto:abdelhafid.chetouani@gmail.com">
-      <img alt="Static Badge" src="https://img.shields.io/badge/--grey?style=for-the-badge&logo=gmail&logoColor=white">
+      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin">
     </a>
   </p>
-</p> 
+  <p align="center">
+    <a href="https://www.upwork.com/freelancers/~01735a871877f454db" rel="nofollow">
+      <img alt="upwork" src="https://img.shields.io/badge/--black?style=plastic&logo=upwork&logoColor=white">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.youtube.com/@hafid_dev">
+      <img alt="youtube" src="https://img.shields.io/badge/--red?style=plastic&logo=youtube">
+    </a>
+  </p>
+  <p align="center">
+    <a href="mailto:abdelhafid.chetouani@gmail.com">
+      <img alt="email" src="https://img.shields.io/badge/--grey?style=plastic&logo=gmail&logoColor=white">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://wakatime.com/@be2ab881-7538-40a1-83b4-a8441a5a31ad">
+      <img src="https://wakatime.com/badge/user/be2ab881-7538-40a1-83b4-a8441a5a31ad.svg" alt="Total time coded since Aug 29 2022" />
+    </a> 
+  </p>
+</p>
 
-🌱 Welcome to my GitHub space! I'm a full-stack software engineer with **12+ years of experience** navigating the tech landscape. I love building smooth, reliable software—whether that's wrangling complex backend architectures or polishing frontend user interfaces. 
+---
+
+### 📖 My Story So Far
+
+Welcome to my GitHub space! I'm a full-stack software engineer with **12+ years of experience** navigating the tech landscape. I love building smooth, reliable software—whether that's wrangling complex backend architectures or polishing frontend user interfaces. 
 
 When I'm not crafting code, you'll probably find me exploring the latest in AI tech, catching an F1 race, or out for an early evening run to reset after a deep focus session. 
 
-I'm always up for a good tech chat, collaboration, or sharing a few debugging stories! 🌱
+I'm always up for a good tech chat, collaboration, or sharing a few debugging stories!
 
 ---
 
@@ -37,35 +60,16 @@ With over a decade in enterprise IT, I help teams bridge the gap between heavy-d
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** Angular, TypeScript, RxJS, HTML5/SCSS
+- **Frontend:** Angular, TypeScript, RxJS, JavaScript, HTML5/SCSS
 - **Backend:** Java, Spring Boot, RESTful APIs, Microservices
-- **Databases & Tools:** Oracle, SQL Server, PostgreSQL, Git, Linux
+- **Databases :** Oracle, SQL Server, PostgreSQL, MySql
 - **Practices:** Architecture Modernization, Enterprise Support, Code Quality & Optimization
 
 ---
 
-📫 **Let's Connect!**
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Email](mailto:youremail@example.com)
+<h3 align="left">📫 Let's Connect!</h3>
 
-📫 How to reach me **abdelhafid.chetouani@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hafid-chetouani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdelhafid01" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="#"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title="TypeScript" alt="TypeScript" height="40"/></a>
-  <a href="#"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title="Node.js" alt="Node.js" height="40"/></a>
-  <a href="#"><img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" title="Oracle" alt="Oracle" height="40"/></a>
-</p>
-<p align="left">
-  <a href="https://wakatime.com/@be2ab881-7538-40a1-83b4-a8441a5a31ad"><img src="https://wakatime.com/badge/user/be2ab881-7538-40a1-83b4-a8441a5a31ad.svg" alt="Total time coded since Aug 29 2022" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Abdelhafid01&label=Profile%20views&color=brightgreen&style=flat" alt="Abdelhafid01" />
-</p> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hafid-chetouani/)
+[![X / Twitter](https://img.shields.io/badge/-18181B?style=flat-square&logo=x&logoColor=white)](https://x.com/hafiddev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=60A5FA)](https://abdelhafidchetouani.com)
+[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:abdelhafid.chetouani@gmail.com)
