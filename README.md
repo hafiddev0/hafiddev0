@@ -11,8 +11,9 @@
 <p align="left">
   <a href="https://wakatime.com/@be2ab881-7538-40a1-83b4-a8441a5a31ad">
     <img src="https://wakatime.com/badge/user/be2ab881-7538-40a1-83b4-a8441a5a31ad.svg" alt="Total time coded since Aug 29 2022" />
-  </a> 
+  </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Abdelhafid01&label=Profile%20views&color=brightgreen&style=flat" alt="Abdelhafid01" />
 
 ---
 
