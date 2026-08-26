@@ -31,6 +31,7 @@ I'm always up for a good tech chat, collaboration, or sharing a few debugging st
 * 💬 Ask me about apps, or programming—I’m here to help! My X username is @hafiddev.
 * 🌐 Languages: Fluent in Arabic, English, and French languages.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G5J423VJQ7)
 ---
 
 ### 🚀 What I Bring to the Table
