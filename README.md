@@ -25,7 +25,7 @@ When I'm not crafting code, you'll probably find me exploring the latest in AI t
 
 I'm always up for a good tech chat, collaboration, or sharing a few debugging stories!
 
-* 🌱 My last app is an F1 App using <a href="https://openf1.org/">OpenF1 API</a> that provides detailed Formula 1 telemetry, timing, and session data for free. And also Real-time timing, telemetry and race-control feeds during live sessions for premium users.
+* 🌱 My last app https://f1metricsdata.com is an F1 App using <a href="https://openf1.org/">OpenF1 API</a> that provides detailed Formula 1 telemetry, timing, and session data for free. And also Real-time timing, telemetry and race-control feeds during live sessions for premium users.
 * 🏗️ My current project, is developing an app that uses <a href="https://www.oilpriceapi.com/">Oil price API</a> in which provides instant oil prices to Moroccan market with current prices with MAD currency.
 * 📚 I’m continuously learning and mastering Angular and Java, and more in the age of AI to enhance my AI development skills.
 * 💬 Ask me about apps, or programming—I’m here to help! My X username is @hafiddev.
