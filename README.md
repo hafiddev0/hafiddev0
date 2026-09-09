@@ -3,7 +3,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hafid-chetouani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=plastic&logo=googlechrome&logoColor=60A5FA)](https://abdelhafidchetouani.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=plastic&logo=googlechrome&logoColor=60A5FA)](https://hafiddev.com)
 [![upwork](https://img.shields.io/badge/--green?style=plastic&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01735a871877f454db)
 [![X](https://img.shields.io/badge/--black?style=plastic&logo=x&logoColor=white)](https://x.com/hafiddev)
 [![YT](https://img.shields.io/badge/--red?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@hafid_dev)
